@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DNA", "DNA\DNA.csproj", "{70CF3CE9-1D73-431E-AA19-00F55B4ADEA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70CF3CE9-1D73-431E-AA19-00F55B4ADEA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70CF3CE9-1D73-431E-AA19-00F55B4ADEA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70CF3CE9-1D73-431E-AA19-00F55B4ADEA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70CF3CE9-1D73-431E-AA19-00F55B4ADEA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86F70D24-7494-4C94-934D-773C146AA6EE}
+	EndGlobalSection
+EndGlobal
